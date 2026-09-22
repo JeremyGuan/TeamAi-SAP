@@ -1,0 +1,28 @@
+username: JeremyGuan
+updatedAt: 2026-09-22T01:32:19.780Z
+skills:
+  teamai:
+    count: 1
+    lastUsed: 2026-09-20T14:28:53.366Z
+interventions:
+  sessions: 2
+  interrupt: 0
+  toolReject: 0
+  correction: 0
+prompts: 3
+tokens:
+  input: 112125
+  output: 7647
+  cacheRead: 1739776
+  cacheCreation: 0
+daily:
+  2026-09-20:
+    sessionsEnded: 1
+    sessionsSucceeded: 1
+    promptTurns: 2
+    durationMs: 147547
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
